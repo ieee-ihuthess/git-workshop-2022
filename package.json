@@ -1,0 +1,15 @@
+{
+  "name": "git-workshop-2022",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "buefy": "^0.9.20",
+    "gridsome": "^0.7.0"
+  }
+}
